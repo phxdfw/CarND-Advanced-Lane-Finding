@@ -1,9 +1,9 @@
 ## Advanced Lane Finding
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-[Watch Project Video](https://youtu.be/bJ_hsOobqvg)
-[Watch Challenge Video](https://youtu.be/K6jthgtqyMQ)
-[Watch Harder Challenge Video]https://youtu.be/2SL8F0AQ7JU)
+* [Watch Project Video](https://youtu.be/bJ_hsOobqvg)
+* [Watch Challenge Video](https://youtu.be/K6jthgtqyMQ)
+* [Watch Harder Challenge Video](https://youtu.be/2SL8F0AQ7JU)
 
 [!screenshot](https://github.com/phxdfw/CarND-Advanced-Lane-Finding/blob/master/images/Capture.PNG)
 
