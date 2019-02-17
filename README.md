@@ -5,7 +5,7 @@
 * [Watch Challenge Video](https://youtu.be/K6jthgtqyMQ)
 * [Watch Harder Challenge Video](https://youtu.be/2SL8F0AQ7JU)
 
-[!screenshot](https://github.com/phxdfw/CarND-Advanced-Lane-Finding/blob/master/images/Capture.PNG)
+![screenshot](https://github.com/phxdfw/CarND-Advanced-Lane-Finding/blob/master/images/Capture.PNG)
 
 ## Project Writeup
 Please view it [here](https://github.com/phxdfw/CarND-Advanced-Lane-Finding/blob/master/writeup.md).
